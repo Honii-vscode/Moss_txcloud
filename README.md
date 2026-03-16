@@ -56,6 +56,11 @@
 - `finance-dashboard-v2` 和 `openclaw-memory-hub` 是 Git 子模块，指向独立仓库
 - 所有研究文档保留作为历史记录，记录了项目从 0 到 1 的探索过程
 
+## 👥 Contributors
+
+- **张弘毅** - 项目发起人，用户配置
+- **MOSS** - AI 助手，代码开发、文档编写、仓库维护
+
 ## 📄 License
 
 MIT
